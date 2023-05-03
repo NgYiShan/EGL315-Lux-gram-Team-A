@@ -79,6 +79,34 @@ total internal reflection occurs when the ray of incidence's angle is higher tha
 
 ## **Research on Pepper Ghost**
 
+**Basic Understanding**
+
+Illustration technique to exploit virtual images
+
+Used in various areas such as:
+  
+  * Theatre
+  * Cinema
+  * Amusement Park
+  * Museum
+  * Television 
+  * Concert
+  
+How does the illustration work?
+
+  * When the light wabes bounce off from one surface to another, an image is reflected
+  * One surface is seen by the audience while the other surface is hidden
+  * The glass can be held at a certain angle
+
+Can take less technology compared to hologram
+
+Reference Links:
+
+* https://www.scienceworld.ca/resource/peppers-ghost-hologram-illusion/
+
+* https://en.wikipedia.org/wiki/Pepper%27s_ghost
+
+
 **Contrast**
 
 * https://epson.com/projector-guide-how-to-buy-a-projector-contrast-ratio#:~:text=Contrast%20ratio%20is%20the%20difference,will%20get%20the%20contrast%20ratio.
@@ -102,4 +130,17 @@ total internal reflection occurs when the ray of incidence's angle is higher tha
 
 * https://pointerclicker.com/what-contrast-ratio-is-best-for-projector/
 
+**Brightness**
 
+Contains properties of the clear vision for reconstruction from the source of light which extends the vertical view of the aperture of the scene depth
+
+Colour of the hologram components consist of the array of the noncontiguous of small dots along with thin strips
+
+Changing image formatting beightness along with the image formatting contrast enhance the encode of the hologram
+
+* For example, higher makes the 3D images more predictable 
+
+
+Reference Links:
+
+* https://bohatala.com/what-is-pepper-ghost-technique/
