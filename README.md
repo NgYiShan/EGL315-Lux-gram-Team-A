@@ -21,15 +21,18 @@ B --> speaker2
 ```
 
 ### Video
-![Alt text](imgs/VSysDiagram.jpg)
+![Alt text](imgs/vidsysdiag.jpg)
 ```mermaid
 graph LR
 
-B --> server1
-B --> server2
+B --> QL1
+B --> MediaServer
+B --> Laptop
+B --> GrandMA3-Console
 A[Laptop] --> B[network_switch]
-server1 --> proj1
-server2 --> proj2
+
+MediaServer --> OptomaProjector
+MediaServer --> EpsonProjector
 ```
 ### Lighting
 ![Alt text](imgs/LSysDiagram.jpg)
