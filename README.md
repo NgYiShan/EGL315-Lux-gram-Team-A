@@ -153,3 +153,9 @@ Reference Links:
 * https://epson.com/projector-guide-how-to-buy-a-projector-color-brightness#:~:text=Projector%20brightness%20is%20measured%20in,of%202500%20lumens%20is%20best
 
 * https://www.projectorpeople.com/resources/lumen-guide.asp
+
+* https://www.projectorcentral.com/How-Bright-Should-Your-Projector-Be.htm
+
+* https://www.wemax.com/blogs/tutorials/10-ways-to-make-your-projector-brighter
+
+* https://www.projectorscreen.com/blog/How-Many-Lumens-Do-I-Need-For-A-Projector
