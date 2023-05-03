@@ -5,6 +5,10 @@
 
 ## **System Diagram**
 
+### Report
+
+Link: https://docs.google.com/document/d/1cRA3Jf9vpwHjMYrJQF2hUuMFDghb2m2GhYB-DNqmJVI/edit
+
 ### Audio
 ![Alt text](imgs/ASysDiagram.jpg)
 
