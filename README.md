@@ -114,15 +114,12 @@ Reference Links:
 * https://www.quora.com/Has-anyone-made-a-hologram-projector-Peppers-ghost-concept-using-a-projector-instead-of-monitors-other-displays-If-yes-how-did-you-make-the-projected-image-sharp
 
 * https://www.viewsonic.com/library/tech/what-are-lumens-and-how-to-use-them-to-choose-a-projector/
-* https://www.benq.com/en-sg/knowledge-center/knowledge/projector-brightness-lumens.html
 
 * https://opg.optica.org/oe/fulltext.cfm?uri=oe-28-26-39524&id=444799
 
 * https://www.artofplay.com/blogs/stories/spectral-illusions-the-peppers-ghost-effect-and-how-it-works
 
 * https://www.projectorcentral.com/projector-contrast-ratio.htm#:~:text=What%20is%20Projector%20Contrast%20Ratio,brighter%20than%20the%20black%20image.
-
-* https://epson.com/projector-guide-how-to-buy-a-projector-color-brightness#:~:text=Projector%20brightness%20is%20measured%20in,of%202500%20lumens%20is%20best.
 
 * https://yourbusiness.azcentral.com/importance-contrast-projector-3962.html
 
@@ -150,3 +147,9 @@ Reference Links:
 * https://opg.optica.org/abstract.cfm?uri=3D-2022-3F2A.6
 
 * https://www.researchgate.net/publication/250998118_Design_of_Hologram_for_Brightness_Enhancement_in_Color_LCDs
+
+* https://www.benq.com/en-sg/knowledge-center/knowledge/projector-brightness-lumens.html
+
+* https://epson.com/projector-guide-how-to-buy-a-projector-color-brightness#:~:text=Projector%20brightness%20is%20measured%20in,of%202500%20lumens%20is%20best
+
+* https://www.projectorpeople.com/resources/lumen-guide.asp
