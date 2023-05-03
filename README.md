@@ -144,3 +144,9 @@ Changing image formatting beightness along with the image formatting contrast en
 Reference Links:
 
 * https://bohatala.com/what-is-pepper-ghost-technique/
+
+* https://ieeexplore.ieee.org/document/9289217
+
+* https://opg.optica.org/abstract.cfm?uri=3D-2022-3F2A.6
+
+* https://www.researchgate.net/publication/250998118_Design_of_Hologram_for_Brightness_Enhancement_in_Color_LCDs
