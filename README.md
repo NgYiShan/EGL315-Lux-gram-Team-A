@@ -1,49 +1,22 @@
 # EGL315-Lux-gram-Team-A 
 ## **Ideation**
+### Report
+Link: https://docs.google.com/document/d/1cRA3Jf9vpwHjMYrJQF2hUuMFDghb2m2GhYB-DNqmJVI/edit
 
 
 
 ## **System Diagram**
 
-### Report
-
-Link: https://docs.google.com/document/d/1cRA3Jf9vpwHjMYrJQF2hUuMFDghb2m2GhYB-DNqmJVI/edit
-
 ### Audio
-![Alt text](imgs/ASysDiagram.jpg)
-
-```mermaid
-graph LR
-
-Laptop --> B[Console]
-B --> speaker1
-B --> speaker2
-```
+![Alt text](imgs/AudioSysDiagram.jpg)
 
 ### Video
-![Alt text](imgs/vidsysdiag.jpg)
-```mermaid
-graph LR
+![Alt text](imgs/VideoSysDiagram.jpg)
 
-B --> QL1
-B --> MediaServer
-B --> Laptop
-B --> GrandMA3-Console
-A[Laptop] --> B[network_switch]
-
-MediaServer --> OptomaProjector
-MediaServer --> EpsonProjector
-```
 ### Lighting
 ![Alt text](imgs/LSysDiagram.jpg)
-```mermaid
-graph LR
+needs to be changed
 
-Laptop --> B[MA Console]
-B --> MH1
-B --> MH2
-
-```
 ## **Research on light**
 angle of incidence is the angle of which the directed light source is pointed at the normal
 critical angle is the angle of the ray when the light reflected is at 90 degrees
