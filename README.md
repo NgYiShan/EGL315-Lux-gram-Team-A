@@ -115,9 +115,11 @@ Contains properties of the clear vision for reconstruction from the source of li
 
 Colour of the hologram components consist of the array of the noncontiguous of small dots along with thin strips
 
-Changing image formatting beightness along with the image formatting contrast enhance the encode of the hologram
+Changing image formatting brightness along with the image formatting contrast enhance the encode of the hologram
 
-* For example, higher makes the 3D images more predictable 
+For example, higher makes the 3D images more predictable 
+
+The brightness of the hologram could also depend on the brightness from the projector
 
 
 Reference Links:
