@@ -14,8 +14,7 @@ Link: https://docs.google.com/document/d/1cRA3Jf9vpwHjMYrJQF2hUuMFDghb2m2GhYB-DN
 ![Alt text](imgs/VideoSysDiagram.jpg)
 
 ### Lighting
-![Alt text](imgs/LSysDiagram.jpg)
-needs to be changed
+![Alt text](imgs/LSysDiagramC.PNG)
 
 ### Control
 ![Alt text](imgs/CSysDiagram.PNG)
