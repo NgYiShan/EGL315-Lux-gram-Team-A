@@ -17,6 +17,9 @@ Link: https://docs.google.com/document/d/1cRA3Jf9vpwHjMYrJQF2hUuMFDghb2m2GhYB-DN
 ![Alt text](imgs/LSysDiagram.jpg)
 needs to be changed
 
+### Control
+![Alt text](imgs/CSysDiagram.PNG)
+
 ## **Research on light**
 angle of incidence is the angle of which the directed light source is pointed at the normal
 critical angle is the angle of the ray when the light reflected is at 90 degrees
