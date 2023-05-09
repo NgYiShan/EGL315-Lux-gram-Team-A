@@ -86,6 +86,7 @@ Reference Links:
 
 
 **Contrast**
+Contrast ratio is the difference between light and dark on a screen expressed by a number. If you take the brightest white on a screen and the darkest black and compare the luminosity, you will get the contrast ratio. Unlike brightness which is the amount of light your eyes perceive from the projected image. Contrast is the difference between the brighter and darker portions of the projected image. The contrast ratio best suited for the pepper ghost effect is the highest possible contrast setting on the given device, be it a projector or monitor. Reason for such is that the most optimal environment for the pepper ghost effect is a dark room void of other sources of light shining directly on the pepper ghost, since the contrast ratio is between the brightest and darkest part of the projected image, a higher contrast will enhance the central focus of the projection while concurrently making the background less obvious. An example would be if one wishes to project an image of a fish with a black background, with a high contrast, it would seem like the fish is the only thing projected on the acrylic while simultaneously making the black background less visible, giving the illusion of the fish floating in midair seamlessly.
 
 * https://epson.com/projector-guide-how-to-buy-a-projector-contrast-ratio#:~:text=Contrast%20ratio%20is%20the%20difference,will%20get%20the%20contrast%20ratio.
 
