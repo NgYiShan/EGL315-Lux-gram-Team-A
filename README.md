@@ -8,13 +8,13 @@ Link: https://docs.google.com/document/d/1cRA3Jf9vpwHjMYrJQF2hUuMFDghb2m2GhYB-DN
 ## **System Diagram**
 
 ### Audio
-![Alt text](imgs/AudioSysDiagram.jpg)
+![Alt text](imgs/AudioSysDiag.jpg)
 
 ### Video
 ![Alt text](imgs/VideoSysDiagram.jpg)
 
 ### Lighting
-![Alt text](imgs/LSysDiagramC.PNG)
+![Alt text](imgs/LightingSysDiag.jpg)
 
 ### Control
 ![Alt text](imgs/CSysDiagram.PNG)
