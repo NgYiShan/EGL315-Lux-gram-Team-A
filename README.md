@@ -3,6 +3,15 @@
 ### Report
 Link: https://docs.google.com/document/d/1cRA3Jf9vpwHjMYrJQF2hUuMFDghb2m2GhYB-DNqmJVI/edit
 
+## **Story Boarding**
+
+![Alt text](imgs/storyboard.jpg)
+Our project is based off a fishery setting, where the fishes in a fishmonger's crate come to life.
+- Starts off with a fishmonger putting a crate of fish on a table and is called away
+- When the sensors sense the crate being put down,a timer for 10 secs will start, thereafter, the crate will open and the fishes will come out of the crate dancing and singing, using the fishmonger’s tools as music instruments
+- When the audience selects a button, different genres of songs will be selected for the fishes to play.
+- There’s a gauge that will measure the noise level, when the noise level gets too loud, the fishmonger will be alerted by to the commotion happening and return to the table, the fishes will the rush back into the crate and play dead
+
 
 
 ## **System Diagram**
@@ -25,15 +34,15 @@ critical angle is the angle of the ray when the light reflected is at 90 degrees
 
 ### Refraction 
 ![Alt text](imgs/light1.png)
-first diagram is when angle of incidence < criticle angle, so when it moves to a new medium, it refracts (break/tilt)
+first diagram is when angle of incidence < critical angle, so when it moves to a new medium, it refracts (break/tilt)
 
 ### critical angle
 ![Alt text](imgs/light2.png)
-Second is when angle of incidence = crit angle so no refraction
+Second is when angle of incidence = crital angle so no refraction
 
 ### total internal reflection
 ![Alt text](imgs/light3.png)
-Third is when angle of incidence > criticdle angle, so  quite literally internally reflected (NOT REFRACTED)
+Third is when angle of incidence > critical angle, thus it is internally reflected (NOT REFRACTED)
 
 ### Formulas 
 Refractive Index -->  n = c/v
