@@ -73,26 +73,46 @@ Connect your two Spot Moving heads to the DMX converter via DMX cables.
 Launch grandma3 on your laptop and you can now start creating cues in your lighting system.
 
 ### **Audio System set up**
-You can use any audio playback engine you are comfortable with but is this setup we used ProTools
-![Alt text](imgs/setup_side.jpg)
-![Alt text](imgs/protools.jpg)
+You can use any audio playback engine you are comfortable with but in this setup we used ProTools
+
+1. Patching your outputs. 
+- In our case we used OMNI 6-8. Assigning a mix to each.(OMNI6&7 being the tops and OMNI8 being our sub-woofer)
 ![Alt text](imgs/speakeroutputpatch.jpeg)
-![Alt text](imgs/bussetup.jpeg)
-![Alt text](imgs/dantesetup.jpeg)
-![Alt text](imgs/danteinputpatch.jpeg)
+
+1_1. Start by patching an amplifier in your QL1, then connecting two passive speakers into the amplifier.
+![Alt text](imgs/audio/amp.jpg)
+
+1_2. Then, patch a subwoofer in your QL1.
+
+2. Removing redundant frequencies
+- for the top speakers:
+
+2_1. Using eq, reduce the gain on the low frequencies at around 40Hz to -ve infinity
 ![Alt text](imgs/speakereq.jpeg)
+
+- for the sub-woofer:
+
+2_2. Using eq, reduce the gain on the frequencies > 500 and <20 to -ve infinity
 ![Alt text](imgs/subwoofereq.jpeg)
 
-Start by patching an amplifier in your QL1, then connecting two passive speakers into the amplifier.
 
-Then, patch a subwoofer in your QL1.
+3. Connect to Dante
+- Ensure the ip addresses for your laptop and QL1 are in the same subnet.
 
-Connect 1 laptop to your Yamaha QL1 via a LAN cable.
+3_1. Connect 1 laptop to your Yamaha QL1 via a LAN cable.
 
-Ensure the ip addresses for your laptop and QL1 are in the same subnet.
 
-Connect the licensing dongle for Pro Tools to your laptop, then launch Pro Tools, Dante Virtual Soundcard and Dante controller. 
+ 
+![Alt text](imgs/setup_side.jpg)
+
+
+
+![Alt text](imgs/dantesetup.jpeg)
+![Alt text](imgs/danteinputpatch.jpeg)
+
 ### **Audio Software set up**
+Connect the licensing dongle for Pro Tools to your laptop, then launch Pro Tools, Dante Virtual Soundcard and Dante controller.
+
 1. Importing your audio tracks into ProTools.
 1_1. Select the 'File' Dropdown menu and then select 'Import' --> 'Audio'
 
@@ -110,7 +130,15 @@ Connect the licensing dongle for Pro Tools to your laptop, then launch Pro Tools
 
 ![Alt text](imgs/audio/IOsetup.png)
 
-3. Turn on Dante VIrtual Soundcard(DVS)
+3. Get out dante to QL1
 3_1. open the application and Press 'Start'
 
 ![Alt text](imgs/audio/DVSstart.jpg)
+
+3_2.select the dante channels such that they match with the patching you did on the QL1
+
+![Alt text](imgs/audio/danteController.png)
+
+4. Stereo busing
+4_1. got to Se
+![Alt text](imgs/bussetup.jpeg)
