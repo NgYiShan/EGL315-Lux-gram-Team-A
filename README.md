@@ -65,12 +65,26 @@ You can now start sending in content through your laptop to your media server.
 ![Alt text](imgs/LightingCue.jpg)
 
 Connect 1 laptop to a ma3 two-port node via a LAN cable, then connect the two-port node to a SaCN to DMX converter via a LAN cable.
-
+![Alt text](<imgs/MA3 Network.jpg>)
 Ensure the ip addresses for your laptop and ma3 Two-port Node are in the same subnet.
-
+![Alt text](<imgs/MA3 sACN.jpg>)
 Connect your two Spot Moving heads to the DMX converter via DMX cables.
 
 Launch grandma3 on your laptop and you can now start creating cues in your lighting system.
+
+OSC connection:\
+	Select Gear > In and Out > OSC > Enable Input (should light up yellow)
+    Set, receive, receive command & echo input switch to “Yes”
+![Alt text](imgs/MA3OSC.PNG)
+    Interface set to laptop IP address
+    Set prefix to “gma3”
+    Set Page to “Page1”
+    Destination IP set to 2 port node IP address
+ ![Alt text](imgs/ChooseSystemMonitor.PNG)
+	On the main page, click on the blank space > Add window > All > type system monitor and select it
+ ![Alt text](imgs/SystemMonitor.PNG)
+	Cross check system monitor with Raspi
+
 
 ### **Audio System set up**
 You can use any audio playback engine you are comfortable with but in this setup we used ProTools
