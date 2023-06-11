@@ -19,6 +19,8 @@ To know what items are required for this setup, please read the BOM listed below
 11. 1x Active Subwoofer Adam Sub10 
 12. 1x Hinged acrylic 80cm x 110cm  
 13. 3x White polyfoam 270cm x 120cm x 0.5cm
+14. 2x Ayrton MagicBlade
+15. 1x Ayrton MiniPanel
 
 ## Required Softwares and Licenses
 
@@ -58,6 +60,10 @@ You can now start sending in content through your laptop to your media server.
 
 ### **Lighting system set up**
 
+![Alt text](imgs/LightinUp%20Setup.jpg)
+![Alt text](imgs/LightingFixtures.jpg)
+![Alt text](imgs/LightingCue.jpg)
+
 Connect 1 laptop to a ma3 two-port node via a LAN cable, then connect the two-port node to a SaCN to DMX converter via a LAN cable.
 
 Ensure the ip addresses for your laptop and ma3 Two-port Node are in the same subnet.
@@ -69,6 +75,13 @@ Launch grandma3 on your laptop and you can now start creating cues in your light
 ### **Audio System set up**
 You can use any audio playback engine you are comfortable with but is this setup we used ProTools
 ![Alt text](imgs/setup_side.jpg)
+![Alt text](imgs/protools.jpg)
+![Alt text](imgs/speakeroutputpatch.jpeg)
+![Alt text](imgs/bussetup.jpeg)
+![Alt text](imgs/dantesetup.jpeg)
+![Alt text](imgs/danteinputpatch.jpeg)
+![Alt text](imgs/speakereq.jpeg)
+![Alt text](imgs/subwoofereq.jpeg)
 
 Start by patching an amplifier in your QL1, then connecting two passive speakers into the amplifier.
 
