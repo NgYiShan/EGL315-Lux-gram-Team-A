@@ -67,7 +67,7 @@ Connect your two Spot Moving heads to the DMX converter via DMX cables.
 Launch grandma3 on your laptop and you can now start creating cues in your lighting system.
 
 ### **Audio System set up**
-
+You can use any audio playback engine you are comfortable with but is this setup we used ProTools
 ![Alt text](imgs/setup_side.jpg)
 
 Start by patching an amplifier in your QL1, then connecting two passive speakers into the amplifier.
@@ -79,4 +79,25 @@ Connect 1 laptop to your Yamaha QL1 via a LAN cable.
 Ensure the ip addresses for your laptop and QL1 are in the same subnet.
 
 Connect the licensing dongle for Pro Tools to your laptop, then launch Pro Tools, Dante Virtual Soundcard and Dante controller. 
+### **Audio Software set up**
+1. Importing your audio tracks into ProTools.
+1_1. Select the 'File' Dropdown menu and then select 'Import' --> 'Audio'
 
+![Alt text](imgs/audio/protools_import_audio.jpg)
+
+1_2. After importing the tracks window should look like this.
+
+![Alt text](imgs/Audio/audioSoftSetup1.jpg)
+
+2. Setting up Dante output to QL
+2_1. Go to the 'Setup' Dropdown menu and select I/O
+![Alt text](imgs/audio/IOdropdownmenu.png)
+
+2_2. Add Stereo Dante Outputs according to how many tracks you need.
+
+![Alt text](imgs/audio/IOsetup.png)
+
+3. Turn on Dante VIrtual Soundcard(DVS)
+3_1. open the application and Press 'Start'
+
+![Alt text](imgs/audio/DVSstart.jpg)
