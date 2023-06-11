@@ -75,6 +75,13 @@ Launch grandma3 on your laptop and you can now start creating cues in your light
 ### **Audio System set up**
 
 ![Alt text](imgs/setup_side.jpg)
+![Alt text](imgs/protools.jpg)
+![Alt text](imgs/speakeroutputpatch.jpeg)
+![Alt text](imgs/bussetup.jpeg)
+![Alt text](imgs/dantesetup.jpeg)
+![Alt text](imgs/danteinputpatch.jpeg)
+![Alt text](imgs/speakereq.jpeg)
+![Alt text](imgs/subwoofereq.jpeg)
 
 Start by patching an amplifier in your QL1, then connecting two passive speakers into the amplifier.
 
