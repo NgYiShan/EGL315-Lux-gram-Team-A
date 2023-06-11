@@ -19,6 +19,8 @@ To know what items are required for this setup, please read the BOM listed below
 11. 1x Active Subwoofer Adam Sub10 
 12. 1x Hinged acrylic 80cm x 110cm  
 13. 3x White polyfoam 270cm x 120cm x 0.5cm
+14. 2x Ayrton MagicBlade
+15. 1x Ayrton MiniPanel
 
 ## Required Softwares and Licenses
 
@@ -57,6 +59,10 @@ On your media server, launch pandoras box, then enter fullscreen.
 You can now start sending in content through your laptop to your media server.
 
 ### **Lighting system set up**
+
+![Alt text](imgs/LightinUp%20Setup.jpg)
+![Alt text](imgs/LightingFixtures.jpg)
+![Alt text](imgs/LightingCue.jpg)
 
 Connect 1 laptop to a ma3 two-port node via a LAN cable, then connect the two-port node to a SaCN to DMX converter via a LAN cable.
 
