@@ -2,7 +2,7 @@
 
 # Set up guide to create a pepper's ghost
 
-## Required materials
+## Hardware
 
 To know what items are required for this setup, please read the BOM listed below.
 
@@ -33,7 +33,7 @@ To know what items are required for this setup, please read the BOM listed below
 7. Dongle for pandora licensing
 8. Dongle for Pro Tools licensing
 
-## How to start
+## Set up
 
 ### **Pepper's ghost set up**
 ![Alt text](imgs/setup_front2.jpg)
@@ -61,7 +61,7 @@ You can now start sending in content through your laptop to your media server.
 ### **Lighting system set up**
 
 ![Alt text](imgs/LightinUp%20Setup.jpg)
-Launch grandma3 on your laptop
+Launch grandMA3 on your laptop
 
 Connect 1 laptop to a ma3 two-port node via a LAN cable, then connect the two-port node to a SaCN to DMX converter via a LAN cable.
 ![Alt text](<imgs/MA3 Network.jpg>)
