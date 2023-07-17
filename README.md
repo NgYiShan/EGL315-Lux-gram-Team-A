@@ -9,7 +9,7 @@ To know what items are required for this setup, please read the BOM listed below
 1. 1x Projector Epson EB-PU2010B
 2. 1x Network Switch Cisco SG1100D-08HP
 3. 1x Audio Mixer Yamaha QL1
-4. 1x Ma3 2 Port Node
+4. 1x MA3 2 Port Node
 5. 1x Media Server
 6. 3x Laptop Hp Zbook G5 15
 7. 2x Spot MH Ayrton Mistral
@@ -29,7 +29,7 @@ To know what items are required for this setup, please read the BOM listed below
 3. Pro tools
 4. Dante Virtual Soundcard
 5. Dante Controller
-6. grandMA3
+6. grandMA3 v1.9.3.3
 7. Dongle for pandora licensing
 8. Dongle for Pro Tools licensing
 
