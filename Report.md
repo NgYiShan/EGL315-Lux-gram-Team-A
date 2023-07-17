@@ -12,22 +12,6 @@ Our project is based off a fishery setting, where the fishes in a fishmonger's c
 - When the audience selects a button, different genres of songs will be selected for the fishes to play.
 - There’s a gauge that will measure the noise level, when the noise level gets too loud, the fishmonger will be alerted by to the commotion happening and return to the table, the fishes will the rush back into the crate and play dead
 
-
-
-## **System Diagram**
-
-### Audio
-![Alt text](imgs/AudioSysDiag.jpg)
-
-### Video
-![Alt text](imgs/VideoSysDiagram.jpg)
-
-### Lighting
-![Alt text](imgs/LightingSysDiag.jpg)
-
-### Control
-![Alt text](imgs/CSysDiagram.PNG)
-
 ## **Research on light**
 angle of incidence is the angle of which the directed light source is pointed at the normal
 critical angle is the angle of the ray when the light reflected is at 90 degrees
