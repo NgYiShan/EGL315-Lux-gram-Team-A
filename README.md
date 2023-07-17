@@ -119,7 +119,7 @@ You can use any audio playback engine you are comfortable with but in this setup
 3_2. Go to 'I/O DEVICE' then 'SETUP', select 'DAISY CHAIN' and 'THIS CONSOLE'.
 ![Alt text](imgs/dantesetup.jpeg)
 
-3_2. Go to 'SETUP' then 'DANTE SETUP', then select 'DANTE INPUT PATCH'. select the input accordingly.
+3_3. Go to 'SETUP' then 'DANTE SETUP', then select 'DANTE INPUT PATCH'. select the input accordingly.
 ![Alt text](imgs/danteinputpatch.jpeg)
 
 4. angling of tops(to make sure there's no phasing)
