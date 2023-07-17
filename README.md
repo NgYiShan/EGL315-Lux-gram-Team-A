@@ -50,41 +50,83 @@ Above the frame, place and open the acrylic, then secure it while angling it at 
 
 Connect 1 laptop to your media server via a LAN cable, then a HDMI cable to your projector set up previously.
 
-Ensure the ip addresses for your laptop and media server are in the same subnet.
+Ensure the ip addresses for your laptop and media server are in the same subnet. (For example, the subnet we are using is 192.168.200.XXX)
+
+
+![Alt text](imgs/Pandora/LaptopIP.png)
+![Alt text](imgs/Pandora/ServerIP.png)
+
 
 Connect the licensing dongle for Pandora to your laptop, then launch pandoras box on and server management.
 
+
+![Alt text](imgs/Pandora/laptopDongle.jpg)
+![Alt text](imgs/Pandora/pcDongle.jpg)
+
+
+
 On your media server, launch pandoras box, then enter fullscreen.
+
+
+![Alt text](imgs/Pandora/launchPB.png)
+
+
 
 You can now start sending in content through your laptop to your media server.
 
 ### **Lighting system set up**
 
 ![Alt text](imgs/LightinUp%20Setup.jpg)
+
+
 Launch grandMA3 on your laptop
 
 Connect 1 laptop to a ma3 two-port node via a LAN cable, then connect the two-port node to a SaCN to DMX converter via a LAN cable.
+
+
 ![Alt text](<imgs/MA3 Network.jpg>)
+
+
 Ensure the ip addresses for your laptop and ma3 Two-port Node are in the same subnet.\
 Under DMX  protocols enable output and set local and sACN universes
+
+
 ![Alt text](<imgs/MA3 sACN.jpg>)
+
+
 Connect your two Spot Moving heads to the DMX converter via DMX cables.
 
 you can now start creating cues in your lighting system.
+
+
 ![Alt text](imgs/LightingFixtures.jpg)
 ![Alt text](imgs/LightingCue.jpg)
+
+
 OSC connection:\
-	Select Gear > In and Out > OSC > Enable Input (should light up yellow)
-    Set, receive, receive command & echo input switch to “Yes”
+Select Gear > In and Out > OSC > Enable Input (should light up yellow)
+Set, receive, receive command & echo input switch to “Yes”
+
+
 ![Alt text](imgs/MA3OSC.PNG)
-    Interface set to laptop IP address
-    Set prefix to “gma3”
-    Set Page to “Page1”
-    Destination IP set to 2 port node IP address
- ![Alt text](imgs/ChooseSystemMonitor.PNG)
-	On the main page, click on the blank space > Add window > All > type system monitor and select it
- ![Alt text](imgs/SystemMonitor.PNG)
-	Cross check system monitor with Raspi
+
+
+Interface set to laptop IP address
+Set prefix to “gma3”
+Set Page to “Page1”
+Destination IP set to 2 port node IP address
+
+
+![Alt text](imgs/ChooseSystemMonitor.PNG)
+
+
+On the main page, click on the blank space > Add window > All > type system monitor and select it
+
+
+![Alt text](imgs/SystemMonitor.PNG)
+
+
+Cross check system monitor with Raspi
 
 
 ### **Audio System set up**
