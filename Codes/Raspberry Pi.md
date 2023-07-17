@@ -7,10 +7,10 @@
 ### 1. Open Thonny in Rapberry Pi
 
 ### 2. Using the code  
-- Import the 
-[program file](<Codes/OSC_MA_PANDORA>) and open in Thonny
-![Alt text](imgs/open315py.png)
+- Import the [program file](<Codes/OSC_MA_PANDORA>) and open in Thonny
 
+
+![Alt text](../imgs/open315py.png)
 ## Code Breakdown
 ### Setup
 
