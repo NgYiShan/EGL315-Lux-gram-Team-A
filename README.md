@@ -36,7 +36,7 @@ To know what items are required for this setup, please read the BOM listed below
 ## Set up
 
 ### **Pepper's ghost set up**
-![Alt text](imgs/setup_front2.jpg)
+![Alt text](imgs/physicalSetup.jpg)
 
 Using a sturdy and heavy enough frame, mount the projector to the underside of the frame, then angle the projector 10° towards the floor.
 
