@@ -1,5 +1,6 @@
-# Network Settings
+# EGL315-Lux-gram-Team-A
 
+# Network Settings
 
 Initialize Router</br>
 Login to router

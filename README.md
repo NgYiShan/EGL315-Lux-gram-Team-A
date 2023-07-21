@@ -33,186 +33,137 @@ To know what items are required for this setup, please read the BOM listed below
 7. Dongle for pandora licensing
 8. Dongle for Pro Tools licensing
 
-## Set up
 
-### **Pepper's ghost set up**
-![Alt text](imgs/physicalSetup.jpg)
+# EGL315-Lux-gram-Team-A 
 
-Using a sturdy and heavy enough frame, mount the projector to the underside of the frame, then angle the projector 10° towards the floor.
+## **Story Boarding**
 
-Then, at 100cm away, prop up the white polyfoam, and tilt it backwards to an angle of 68°.
+![Alt text](imgs/storyboard.jpg)
+Our project is based off a fishery setting, where the fishes in a fishmonger's crate come to life.
+- Starts off with a fishmonger putting a crate of fish on a table and is called away
+- When the sensors sense the crate being put down,a timer for 10 secs will start, thereafter, the crate will open and the fishes will come out of the crate dancing and singing, using the fishmonger’s tools as music instruments
+- When the audience selects a button, different genres of songs will be selected for the fishes to play.
+- There’s a gauge that will measure the noise level, when the noise level gets too loud, the fishmonger will be alerted by to the commotion happening and return to the table, the fishes will the rush back into the crate and play dead
 
-Above the frame, place and open the acrylic, then secure it while angling it at 75°.
+## **Research on light**
+angle of incidence is the angle of which the directed light source is pointed at the normal
+critical angle is the angle of the ray when the light reflected is at 90 degrees
 
-### **Video system set up**
+### Refraction 
+![Alt text](imgs/light1.png)
+first diagram is when angle of incidence < critical angle, so when it moves to a new medium, it refracts (break/tilt)
 
-![Alt text](imgs/pandora.jpg)
+### critical angle
+![Alt text](imgs/light2.png)
+Second is when angle of incidence = crital angle so no refraction
 
-Connect 1 laptop to your media server via a LAN cable, then a HDMI cable to your projector set up previously.
+### total internal reflection
+![Alt text](imgs/light3.png)
+Third is when angle of incidence > critical angle, thus it is internally reflected (NOT REFRACTED)
 
-Ensure the ip addresses for your laptop and media server are in the same subnet. (For example, the subnet we are using is 192.168.200.XXX)
+### Formulas 
+Refractive Index -->  n = c/v
+where n is refractive index,
+c is speed of light in vacumm / air
+v is speed of light in Medium / Acrylic
 
+Snell's law
+n1 sin x1 = n2 sin x2
+where n1 == incident Refractive Index
+where n2 == refracted Refractive Index
 
-![Alt text](imgs/Pandora/LaptopIP.png)
-![Alt text](imgs/Pandora/ServerIP.png)
+where x1 == incident angle
+where x2 == refracted angle
 
+### complilation
+![Alt text](imgs/light4.png)
+total internal reflection occurs when the ray of incidence's angle is higher than the critical angle
 
-Connect the licensing dongle for Pandora to your laptop, then launch pandoras box on and server management.
+*Reference Link: https://www.youtube.com/watch?v=zA8UfR-Eekk*
 
+## **Research on Pepper Ghost**
 
-![Alt text](imgs/Pandora/laptopDongle.jpg)
-![Alt text](imgs/Pandora/pcDongle.jpg)
+**Basic Understanding**
 
+Illustration technique to exploit virtual images
 
+Used in various areas such as:
+  
+  * Theatre
+  * Cinema
+  * Amusement Park
+  * Museum
+  * Television 
+  * Concert
+  
+How does the illustration work?
 
-On your media server, launch pandoras box, then enter fullscreen.
+  * When the light wabes bounce off from one surface to another, an image is reflected
+  * One surface is seen by the audience while the other surface is hidden
+  * The glass can be held at a certain angle
 
+Can take less technology compared to hologram
 
-![Alt text](imgs/Pandora/launchPB.png)
+Reference Links:
 
+* https://www.scienceworld.ca/resource/peppers-ghost-hologram-illusion/
 
+* https://en.wikipedia.org/wiki/Pepper%27s_ghost
 
-You can now start sending in content through your laptop to your media server.
 
-### **Lighting system set up**
+**Contrast**
+Contrast ratio is the difference between light and dark on a screen expressed by a number. If you take the brightest white on a screen and the darkest black and compare the luminosity, you will get the contrast ratio. Unlike brightness which is the amount of light your eyes perceive from the projected image. Contrast is the difference between the brighter and darker portions of the projected image. The contrast ratio best suited for the pepper ghost effect is the highest possible contrast setting on the given device, be it a projector or monitor. Reason for such is that the most optimal environment for the pepper ghost effect is a dark room void of other sources of light shining directly on the pepper ghost, since the contrast ratio is between the brightest and darkest part of the projected image, a higher contrast will enhance the central focus of the projection while concurrently making the background less obvious. An example would be if one wishes to project an image of a fish with a black background, with a high contrast, it would seem like the fish is the only thing projected on the acrylic while simultaneously making the black background less visible, giving the illusion of the fish floating in midair seamlessly.
 
-![Alt text](imgs/LightinUp%20Setup.jpg)
+* https://epson.com/projector-guide-how-to-buy-a-projector-contrast-ratio#:~:text=Contrast%20ratio%20is%20the%20difference,will%20get%20the%20contrast%20ratio.
 
+* https://www.quora.com/Has-anyone-made-a-hologram-projector-Peppers-ghost-concept-using-a-projector-instead-of-monitors-other-displays-If-yes-how-did-you-make-the-projected-image-sharp
 
-Launch grandMA3 on your laptop
+* https://www.viewsonic.com/library/tech/what-are-lumens-and-how-to-use-them-to-choose-a-projector/
 
-Connect 1 laptop to a ma3 two-port node via a LAN cable, then connect the two-port node to a SaCN to DMX converter via a LAN cable.
+* https://www.benq.com/en-sg/knowledge-center/knowledge/projector-brightness-lumens.html
 
+* https://epson.com/projector-guide-how-to-buy-a-projector-color-brightness#:~:text=Projector%20brightness%20is%20measured%20in,of%202500%20lumens%20is%20best
 
-![Alt text](<imgs/MA3 Network.jpg>)
+* https://opg.optica.org/oe/fulltext.cfm?uri=oe-28-26-39524&id=444799
 
+* https://www.artofplay.com/blogs/stories/spectral-illusions-the-peppers-ghost-effect-and-how-it-works
 
-Ensure the ip addresses for your laptop and ma3 Two-port Node are in the same subnet.\
-Under DMX  protocols enable output and set local and sACN universes
+* https://www.projectorcentral.com/projector-contrast-ratio.htm#:~:text=What%20is%20Projector%20Contrast%20Ratio,brighter%20than%20the%20black%20image.
 
+* https://yourbusiness.azcentral.com/importance-contrast-projector-3962.html
 
-![Alt text](<imgs/MA3 sACN.jpg>)
+* https://projectorninja.com/good-contrast-ratio-projector/
 
+* https://pointerclicker.com/what-contrast-ratio-is-best-for-projector/
 
-Connect your two Spot Moving heads to the DMX converter via DMX cables.
+**Brightness**
 
-you can now start creating cues in your lighting system.
+Contains properties of the clear vision for reconstruction from the source of light which extends the vertical view of the aperture of the scene depth
 
+Colour of the hologram components consist of the array of the noncontiguous of small dots along with thin strips
 
-![Alt text](imgs/LightingFixtures.jpg)
-![Alt text](imgs/LightingCue.jpg)
+Changing image formatting brightness along with the image formatting contrast enhance the encode of the hologram
 
+For example, higher makes the 3D images more predictable 
 
-OSC connection:\
-Select Gear > In and Out > OSC > Enable Input (should light up yellow)
-Set, receive, receive command & echo input switch to “Yes”
+The brightness of the hologram could also depend on the brightness from the projector
 
 
-![Alt text](imgs/MA3OSC.PNG)
+Reference Links:
 
+* https://bohatala.com/what-is-pepper-ghost-technique/
 
-Interface set to laptop IP address
-Set prefix to “gma3”
-Set Page to “Page1”
-Destination IP set to 2 port node IP address
+* https://ieeexplore.ieee.org/document/9289217
 
+* https://opg.optica.org/abstract.cfm?uri=3D-2022-3F2A.6
 
-![Alt text](imgs/ChooseSystemMonitor.PNG)
+* https://www.researchgate.net/publication/250998118_Design_of_Hologram_for_Brightness_Enhancement_in_Color_LCDs
 
+* https://www.projectorpeople.com/resources/lumen-guide.asp
 
-On the main page, click on the blank space > Add window > All > type system monitor and select it
+* https://www.projectorcentral.com/How-Bright-Should-Your-Projector-Be.htm
 
+* https://www.wemax.com/blogs/tutorials/10-ways-to-make-your-projector-brighter
 
-![Alt text](imgs/SystemMonitor.PNG)
+* https://www.projectorscreen.com/blog/How-Many-Lumens-Do-I-Need-For-A-Projector
 
-
-Cross check system monitor with Raspi
-
-
-### **Audio System set up**
-You can use any audio playback engine you are comfortable with but in this setup we used ProTools
-
-1. Patching your outputs. 
-- In our case we used OMNI 6-8. Assigning a mix to each.(OMNI6&7 being the tops and OMNI8 being our sub-woofer)
-![Alt text](imgs/speakeroutputpatch.jpeg)
-
-1_1. Start by patching an amplifier in your QL1, then connecting two passive speakers into the amplifier.
-
-
-![Alt text](imgs/audio/amp.jpg)
-
-
-1_2. Then, patch a subwoofer in your QL1.
-
-2. Removing redundant frequencies
-- for the top speakers:
-
-2_1. Using eq, reduce the gain on the low frequencies at around 40Hz to -ve infinity
-
-
-![Alt text](imgs/speakereq.jpeg)
-
-- for the sub-woofer:
-
-2_2. Using eq, reduce the gain on the frequencies > 500 and <20 to -ve infinity.
-
-
-![Alt text](imgs/subwoofereq.jpeg)
-
-
-3. Connect to Dante
-- Ensure the ip addresses for your laptop and QL1 are in the same subnet.
-
-3_1. Connect 1 laptop to your Yamaha QL1 via a LAN cable.
-
-3_2. Go to 'I/O DEVICE' then 'SETUP', select 'DAISY CHAIN' and 'THIS CONSOLE'.
-![Alt text](imgs/dantesetup.jpeg)
-
-3_3. Go to 'SETUP' then 'DANTE SETUP', then select 'DANTE INPUT PATCH'. select the input accordingly.
-![Alt text](imgs/danteinputpatch.jpeg)
-
-4. angling of tops(to make sure there's no phasing)
-- angle at 30 degrees towards the auidence
-![Alt text](imgs/setup_side.jpg)
-
-### **Audio Software set up**
-Connect the licensing dongle for Pro Tools to your laptop, then launch Pro Tools, Dante Virtual Soundcard and Dante controller.
-
-1. Connect dante to QL1.
-1_1. open the application and Press 'Start'.
-
-
-![Alt text](imgs/audio/DVSstart.jpg)
-
-1_2. Select the dante channels such that they match with the patching you did on the QL1.
-
-
-![Alt text](imgs/audio/danteController.png)
-
-2.Importing your audio tracks into ProTools.
-2_1. Select the 'File' Dropdown menu and then select 'Import' --> 'Audio'.
-
-
-![Alt text](imgs/audio/protools_import_audio.jpg)
-
-2_2. After importing the tracks window should look like this.
-
-
-![Alt text](imgs/Audio/audioSoftSetup1.jpg)
-
-3. Setting up Dante output to QL.
-3_1. Go to the 'Setup' Dropdown menu and select I/O.
-
-
-![Alt text](imgs/audio/IOdropdownmenu.png)
-
-3_2. Add Stereo Dante Outputs according to how many tracks you need.
-
-
-![Alt text](imgs/audio/IOsetup.png) 
-
-4. Stereo busing
-4_1. go to setup on QL1 and make your output mix/matrixes stereo.
-
-
-![Alt text](imgs/bussetup.jpeg)
