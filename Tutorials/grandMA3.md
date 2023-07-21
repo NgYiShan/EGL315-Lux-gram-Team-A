@@ -4,54 +4,87 @@
 
 ## grandMA3 setup
 
-![Alt text](imgs/LightinUp%20Setup.jpg)
+### Step 1: 2 Port Node Configuration(MA3) Hardware Configuration
+</br>
 
+![Alt text](<../imgs/gma config/gma config 1.1.jpg>)
 
-Launch grandMA3 on your laptop
+![Alt text](<../imgs/gma config/gma config 1.2.jpg>)
 
-Connect 1 laptop to a ma3 two-port node via a LAN cable, then connect the two-port node to a SaCN to DMX converter via a LAN cable.
+![Alt text](<../imgs/gma config/gma config 1.3.jpg>)
 
+![Alt text](<../imgs/gma config/gma config 1.4.jpg>)
 
-![Alt text](<imgs/MA3 Network.jpg>)
+![Alt text](<../imgs/gma config/gma config 1.5.jpg>)
 
+![Alt text](<../imgs/gma config/gma config 1.6.jpg>)
 
-Ensure the ip addresses for your laptop and ma3 Two-port Node are in the same subnet.\
-Under DMX  protocols enable output and set local and sACN universes
+### Network Configuration
+</br>
 
+![Alt text](<../imgs/gma config/gma config 2.1.jpg>)
 
-![Alt text](<imgs/MA3 sACN.jpg>)
+![Alt text](<../imgs/gma config/gma config 2.2.jpg>)
 
+![Alt text](<../imgs/gma config/gma config 2.3.jpg>)
 
-Connect your two Spot Moving heads to the DMX converter via DMX cables.
+### DMX Protocols - sACN
+</br>
 
-you can now start creating cues in your lighting system.
+![Alt text](<../imgs/gma config/gma config 3.1.jpg>)
 
+![Alt text](<../imgs/gma config/gma config 3.2.jpg>)
 
-![Alt text](imgs/LightingFixtures.jpg)
-![Alt text](imgs/LightingCue.jpg)
+![Alt text](<../imgs/gma config/gma config 3.3.jpg>)
 
+![Alt text](<../imgs/gma config/gma config 3.4.jpg>)
 
-OSC connection:\
-Select Gear > In and Out > OSC > Enable Input (should light up yellow)
-Set, receive, receive command & echo input switch to “Yes”
+### Patching Fixtures
+</br>
 
+![Alt text](<../imgs/gma config/gma config 4.1.jpg>)
 
-![Alt text](imgs/MA3OSC.PNG)
+![Alt text](<../imgs/gma config/gma config 4.2.jpg>)
 
+![Alt text](<../imgs/gma config/gma config 4.3.jpg>)
 
-Interface set to laptop IP address
-Set prefix to “gma3”
-Set Page to “Page1”
-Destination IP set to 2 port node IP address
+![Alt text](<../imgs/gma config/gma config 4.4.jpg>)
 
+![Alt text](<../imgs/gma config/gma config 4.5.jpg>)
 
-![Alt text](imgs/ChooseSystemMonitor.PNG)
+### Creating Sequence and Cues
+</br>
 
+![Alt text](<../imgs/gma config/gma config 5.1.jpg>)
 
-On the main page, click on the blank space > Add window > All > type system monitor and select it
+![Alt text](<../imgs/gma config/gma config 5.2.jpg>)
 
+![Alt text](<../imgs/gma config/gma config 5.3.jpg>)
 
-![Alt text](imgs/SystemMonitor.PNG)
+![Alt text](<../imgs/gma config/gma config 5.4.jpg>)
 
+![Alt text](<../imgs/gma config/gma config 5.5.jpg>)
 
-Cross check system monitor with Raspi
+### OSC Configuration
+</br>
+
+Checking Network Connection
+</br>
+
+![Alt text](<../imgs/gma config/gma config 6.1.jpg>)
+
+![Alt text](<../imgs/gma config/gma config 6.2.jpg>)
+
+Checking “In & Out” settings 
+</br>
+
+![Alt text](<../imgs/gma config/gma config 6.3.jpg>)
+
+![Alt text](<../imgs/gma config/gma config 6.4.jpg>)
+
+Opening “System Monitor”
+</br>
+
+![Alt text](<../imgs/gma config/gma config 6.5.jpg>)
+
+![Alt text](<../imgs/gma config/gma config 6.6.jpg>)
