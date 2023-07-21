@@ -17,3 +17,5 @@ Password: mtswifipwd
 ![Alt text](<../imgs/Router wireless setup.jpg>)
 Router IP address set to 192.168.200.1
 ![Alt text](<../imgs/Router LAN setup.jpg>)
+The IP adresses for our various devices
+![Alt text](<../imgs/Network Table.jpg>)
