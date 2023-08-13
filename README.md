@@ -2,6 +2,10 @@
 
 # Set up guide to create a pepper's ghost
 
+
+Click [here](Demo) to watch a demo of our project
+
+
 ## Hardware
 
 To know what items are required for this setup, please read the BOM listed below.
@@ -44,6 +48,18 @@ Our project is based off a fishery setting, where the fishes in a fishmonger's c
 - When the sensors sense the crate being put down,a timer for 10 secs will start, thereafter, the crate will open and the fishes will come out of the crate dancing and singing, using the fishmonger’s tools as music instruments
 - When the audience selects a button, different genres of songs will be selected for the fishes to play.
 - There’s a gauge that will measure the noise level, when the noise level gets too loud, the fishmonger will be alerted by to the commotion happening and return to the table, the fishes will the rush back into the crate and play dead
+
+## **Required software**
+This is the [tutorial](Tutorials/Pandora.md) and [files](<Project Files/EGL-315_PandorasBox_Final>) for *Video*, Christie Pandora's Box.
+</br>
+This is the [tutorial](<Tutorials/Widget Designer.md>) and [files](<Project Files/EGL-315_Widget_Final>) for *Video Control*, Christie Widget Designer.
+</br>
+This is the [tutorial](Tutorials/QL1.md) and [file](<Project Files/FMQL.CLF>) for *Audio*, QL1.
+</br>
+This is the [tutorial](Tutorials/dante.md) for *Audio*, Dante.
+</br>
+This is the [tutorial](Tutorials/grandMA3.md) and [file](<Project Files/EGL315 Fishmonger Final.show>) for *lighting*,grandMA3.
+
 
 ## **Research on light**
 angle of incidence is the angle of which the directed light source is pointed at the normal
